@@ -1,0 +1,6 @@
+@ReactApp1.Server_HostAddress = http://localhost:7236
+
+POST {{ReactApp1.Server_HostAddress}}/Login/
+Accept: application/json
+
+###
