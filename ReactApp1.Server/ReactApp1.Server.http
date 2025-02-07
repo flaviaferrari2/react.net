@@ -1,4 +1,4 @@
-@ReactApp1.Server_HostAddress = http://localhost:7236
+@ReactApp1.Server_HostAddress = http://localhost:5160/api
 
 POST {{ReactApp1.Server_HostAddress}}/Login/
 Accept: application/json

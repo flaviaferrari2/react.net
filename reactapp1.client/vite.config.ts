@@ -47,7 +47,7 @@ export default defineConfig({
     },
     server: {
         proxy: {
-            '^/Login': {
+            '^/login': {
                 target,
                 secure: false
             }
